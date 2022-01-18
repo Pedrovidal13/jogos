@@ -1,0 +1,2 @@
+# jogos
+apenas para jogos
